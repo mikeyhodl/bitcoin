@@ -9,6 +9,7 @@
 #include <util/overflow.h>
 
 #include <compare>
+#include <concepts>
 #include <cstdint>
 #include <span>
 #include <utility>
